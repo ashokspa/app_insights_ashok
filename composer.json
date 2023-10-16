@@ -1,5 +1,5 @@
 {
-    "name": "microsoft/application-insights",
+    "name": "app_insights_ashok/application-insights",
     "description": "This project extends the Application Insights API surface to support PHP.",
     "type": "library",
     "version": "1.0.0",
